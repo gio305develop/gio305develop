@@ -15,7 +15,21 @@
   <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <br/><br/>
-
+<br/>
+<hr />
+  
+<div align="center">
+  <a href="https://github.com/gio305develop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gio305develop&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gio305develop&layout=compact&langs_count=7&theme=gradient"/>
+</div>
+	
+## ⚡ Technologies I love and use
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">                                                        
+</div>
 
 <!---
 gio305develop/gio305develop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
